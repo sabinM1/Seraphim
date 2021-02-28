@@ -1,6 +1,7 @@
 # Seraphim
 
 ## Simple Arduino welcome message using a MicroSD card adapter, a speaker with an amp, a PIR sensor and an LED.
+## Also see https://github.com/sabinM1/Seraphim2.0
 
 ### Hardware
 
